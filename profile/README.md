@@ -1,6 +1,6 @@
 ## Meet Coderly Studio 🚀
 
-We’re a vibrant collective of remote professionals, united by a shared passion for innovation and creativity. Our mission? To bring ideas to life and make a positive impact on the world through exceptional applications and coding resources. We’re a team all dedicated to crafting custom applications that fulfil the unique needs of individuals and businesses.
+We’re a vibrant collective of remote professionals, united by a shared passion for innovation and creativity. Our mission? To bring ideas to life and make a positive impact on the world through exceptional applications and coding resources. We’re a team all dedicated to crafting custom applications that fulfill the unique needs of individuals and businesses.
 
 
 ## Our Craft 🛠️
